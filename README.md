@@ -1,16 +1,84 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, nice to see you here!</h1>
 
-<!--
-**M7moudAbdallah01/M7moudAbdallah01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+Hi, I’m **Mahmoud**  
+- 🎯 Junior Penetration Tester & Bug Hunter  
+- 🎓 **Faculty of Computers & Artificial Intelligence – Helwan University**  
+- 🔎 Passionate about cybersecurity, ethical hacking, and problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/M7moudAbdallah01/" target="_blank" style="text-decoration:none; color:#0A66C2;">
+    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="vertical-align:middle; margin-right:8px;"/> LinkedIn: Mahmoud Abdallah
+  </a>
+  <br/>
+  <a href="https://www.facebook.com/share/1Fk2Tppkp2" target="_blank" style="text-decoration:none; color:#1877F2;">
+    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" style="vertical-align:middle; margin-right:8px;"/> Facebook: Mahmoud A. Sharaf
+  </a>
+  <br/>
+  <a href="https://www.youtube.com/@M7m0ud_Abdallah01" target="_blank" style="text-decoration:none; color:#FF0000;">
+    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" style="vertical-align:middle; margin-right:8px;"/> YouTube: M7m0ud_Abdallah
+  </a>
+  <br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmoud789abdallah101@gmail.com" style="text-decoration:none; color:#000000;">
+    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" style="vertical-align:middle; margin-right:8px;"/> Email: mahmoud789abdallah101@gmail.com
+  </a>
+</p>
+
+
+---
+
+### 🛠️ Skills
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25"/> Python  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25"/> C  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25"/> HTML  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25"/> CSS  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25"/> JavaScript  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25"/> PHP  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25"/> MySQL  
+  <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="security" width="25"/> Basic Security  
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=tokyo-night" alt="activity graph"/>
+</p>
+
+---
+
+### 📌 Pinned Projects
+<a href="https://github.com/yourgithubusername/project1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/yourgithubusername/project2" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project2&theme=tokyonight" />
+</a>
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&color=blue&style=flat&label=Profile+Views&count=0" alt="Profile Views" /> 
+</p>
+
+---
+
