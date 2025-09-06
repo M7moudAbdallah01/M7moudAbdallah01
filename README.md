@@ -24,9 +24,17 @@ Hi, I’m **Mahmoud**
     <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" style="vertical-align:middle; margin-right:8px;"/> YouTube: M7m0ud_Abdallah
   </a>
   <br/>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmoud789abdallah101@gmail.com" style="text-decoration:none; color:#000000;">
-    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" style="vertical-align:middle; margin-right:8px;"/> Email: mahmoud789abdallah101@gmail.com
+  <a href="mailto:mahmoud789abdallah101@gmail.com" style="text-decoration:none; color:#000000;">
+    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" style="vertical-align:middle; margin-right:8px;"/> 
+    Email: mahmoud789abdallah101@gmail.com
   </a>
+  <br/>
+<a href="[https://yourwebsite.com](https://mahmoud-abdallah-sharaf.netlify.app/)" target="_blank" style="text-decoration:none; color:#000000;">
+  <img height="25" src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="website" style="vertical-align:middle; margin-right:8px;"/> 
+  Website: Mahmoud Abdallah Sharaf
+</a>
+
+
 </p>
 
 
@@ -40,8 +48,7 @@ Hi, I’m **Mahmoud**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25"/> CSS  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25"/> JavaScript  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25"/> PHP  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25"/> MySQL  
-  <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="security" width="25"/> Basic Security  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25"/> MySQL   
 </p>
 
 ---
