@@ -53,39 +53,28 @@ Hi, I’m **Mahmoud**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourgithubusername&theme=tokyo-night" alt="activity graph"/>
-</p>
-
----
-
 ### 📌 Pinned Projects
-<a href="https://github.com/yourgithubusername/project1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project1&theme=tokyonight" />
+
+<!-- GitHub Projects -->
+<a href="https://github.com/M7moudAbdallah01/Golden_Store" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=Golden_Store&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/yourgithubusername/project2" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project2&theme=tokyonight" />
+<a href="https://github.com/M7moudAbdallah01/CRUD" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=CRUD&theme=tokyonight" />
 </a>
 
----
+<a href="https://github.com/M7moudAbdallah01/My_Portfolio" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=My_Portfolio&theme=tokyonight" />
+</a>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&color=blue&style=flat&label=Profile+Views&count=0" alt="Profile Views" /> 
+<!-- Hosted Projects -->
+<p align="center">
+  🔗 <a href="https://mr-mohamed-khaled.wuaze.com/" target="_blank">Project: Mr. Mohamed Khaled</a>
+  <br>
+  🔗 <a href="https://dr-ahmed-sharaf.wuaze.com/" target="_blank">Project: Dr. Ahmed Sharaf</a>
 </p>
+
 
 ---
 
