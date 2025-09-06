@@ -54,21 +54,11 @@ Hi, I’m **Mahmoud**
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M7moudAbdallah01&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7moudAbdallah01&theme=tokyonight" alt="streak stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7moudAbdallah01&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M7moudAbdallah01&theme=tokyo-night" alt="activity graph"/>
-</p>
 
 ---
 
@@ -89,11 +79,11 @@ Hi, I’m **Mahmoud**
 
 <!-- Hosted Projects styled like GitHub repos -->
 <a href="https://mr-mohamed-khaled.wuaze.com/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=mr-mohamed-khaled&theme=tokyonight" />
+  <img src="https://mahmoud-abdallah-sharaf.netlify.app/images/logo.png" alt="Mr. Mohamed Khaled Project" width="400" height="120"/>
 </a>
 
 <a href="https://dr-ahmed-sharaf.wuaze.com/" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=dr-ahmed-sharaf&theme=tokyonight" />
+  <img src="https://mahmoud-abdallah-sharaf.netlify.app/images/ENT.png" alt="Dr. Ahmed Sharaf Project" width="400" height="120"/>
 </a>
 
 ---
@@ -101,5 +91,6 @@ Hi, I’m **Mahmoud**
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=M7moudAbdallah01&color=blue&style=flat&label=Profile+Views&count=0" alt="Profile Views" /> 
 </p>
+
 
 
