@@ -29,7 +29,7 @@ Hi, I’m **Mahmoud**
     Email: mahmoud789abdallah101@gmail.com
   </a>
   <br/>
-<a href="https://mahmoud-abdallah-sharaf.netlify.app/" target="_blank" style="text-decoration:none; color:#000000;">
+<a href="https://mahmoud-sharaf.freehosting.dev/" target="_blank" style="text-decoration:none; color:#000000;">
   <img height="25" src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="website" style="vertical-align:middle; margin-right:8px;"/> 
   Website: Mahmoud Abdallah Sharaf
 </a>
