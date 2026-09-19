@@ -25,6 +25,14 @@
 
 ---
 
+### 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 - **Golden Store** — Frontend project developed by a first-year college team
