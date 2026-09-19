@@ -48,6 +48,7 @@
 - eJPTv2 – Red Nexus Academy (Hossam Shady)
 - Cyber Security Fundamentals – Sprints
 - Cyber Security Engineer Job Profile Course – Mahara-Tech
+- CyberOps Associate - Cisco Networking Academy
 
 ---
 
