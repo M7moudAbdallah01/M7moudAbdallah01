@@ -1,96 +1,55 @@
-<h1 align="center">👋 Hey, nice to see you here!</h1>
+# Hi, I'm Mahmoud Abdallah 👋
+
+🎓 Computer Science undergraduate at the Faculty of Computers and Artificial Intelligence, Helwan University, Cairo, Egypt.
+
+🔐 Passionate about **Cybersecurity**, **Penetration Testing**, and **Bug Bounty Hunting**.
 
 ---
 
-### 👨‍💻 About Me
-Hi, I’m **Mahmoud**  
-- 🎯 Junior Penetration Tester & Bug Hunter  
-- 🎓 **Faculty of Computers & Artificial Intelligence – Helwan University**  
-- 🔎 Passionate about cybersecurity, ethical hacking, and problem-solving  
+### 🚀 About Me
+
+- 🕵️ Penetration Tester | Bug Hunter
+- 📚 Always learning new technologies and improving my security & development skills
+- 💻 I also enjoy building clean front-end interfaces
+- 🌍 Based in Cairo, Egypt
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/M7moudAbdallah01/" target="_blank" style="text-decoration:none; color:#0A66C2;">
-    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="vertical-align:middle; margin-right:8px;"/> LinkedIn: Mahmoud Abdallah
-  </a>
-  <br/>
-  <a href="https://www.facebook.com/share/1Fk2Tppkp2" target="_blank" style="text-decoration:none; color:#1877F2;">
-    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" style="vertical-align:middle; margin-right:8px;"/> Facebook: Mahmoud A. Sharaf
-  </a>
-  <br/>
-  <a href="https://www.youtube.com/@M7m0ud_Abdallah01" target="_blank" style="text-decoration:none; color:#FF0000;">
-    <img height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" style="vertical-align:middle; margin-right:8px;"/> YouTube: M7m0ud_Abdallah
-  </a>
-  <br/>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahmoud789abdallah101@gmail.com" style="text-decoration:none; color:#000000;">
-    <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" style="vertical-align:middle; margin-right:8px;"/> 
-    Email: mahmoud789abdallah101@gmail.com
-  </a>
-  <br/>
-<a href="https://mahmoud-sharaf.freehosting.dev/" target="_blank" style="text-decoration:none; color:#000000;">
-  <img height="25" src="https://img.icons8.com/color/48/000000/internet--v1.png" alt="website" style="vertical-align:middle; margin-right:8px;"/> 
-  Website: Mahmoud Abdallah Sharaf
-</a>
+### 🛠️ Tech Stack & Tools
 
+**Languages & Web:**
+`HTML` `CSS` `JavaScript` `PHP` `Python` `Java` `MySQL`
 
-</p>
-
+**Security Tools:**
+`Burp Suite` `Wireshark` `Nmap` `Metasploit` `Kali Linux` `Hydra` `FFUF` `OWASP ZAP` `Nessus`
 
 ---
 
-### 🛠️ Skills
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25"/> Python  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25"/> C  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25"/> HTML  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25"/> CSS  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25"/> JavaScript  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25"/> PHP  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25"/> MySQL   
-</p>
+### 📌 Featured Projects
+
+- **Golden Store** — Frontend project developed by a first-year college team
+- **Penetration Testing Report** — Full pentest report on VulnBlog Web Application (NTI final project)
+- **Project Management System** — Desktop app built with Java Swing
+- **Smart City Infrastructure Network** — Network design using Cisco Packet Tracer
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Certificates & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7moudAbdallah01&langs_count=10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
-### 📌 Pinned Projects
-
-<!-- GitHub Projects -->
-<a href="https://github.com/M7moudAbdallah01/Golden_Store" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=Golden_Store&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/M7moudAbdallah01/CRUD" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=CRUD&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/M7moudAbdallah01/My-Portfolio" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=M7moudAbdallah01&repo=My-Portfolio&theme=tokyonight" />
-</a>
-
-<!-- Hosted Projects styled like GitHub repos -->
-<a href="https://mr-mohamed-khaled.wuaze.com/" target="_blank">
-  <img src="https://mahmoud-abdallah-sharaf.netlify.app/images/logo.png" alt="Mr. Mohamed Khaled Project" width="400" height="120"/>
-</a>
-
-<a href="https://dr-ahmed-sharaf.wuaze.com/" target="_blank">
-  <img src="https://mahmoud-abdallah-sharaf.netlify.app/images/ENT.png" alt="Dr. Ahmed Sharaf Project" width="400" height="120"/>
-</a>
+- Network Security – NTI Summer Training
+- eJPTv2 – Red Nexus Academy (Hossam Shady)
+- Cyber Security Fundamentals – Sprints
+- Cyber Security Engineer Job Profile Course – Mahara-Tech
 
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=M7moudAbdallah01&color=blue&style=flat&label=Profile+Views&count=0" alt="Profile Views" /> 
-</p>
+### 📫 Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/M7moudAbdallah01/)
+- 🐙 [GitHub](https://github.com/M7moudAbdallah01)
+- 📧 [Email](mailto:mahmoud.a.sharafelden@gmail.com)
+- 🌐 [Portfolio](https://mahmoud-sharaf.freehosting.dev/)
 
+---
 
+⭐️ *Feel free to explore my repositories and reach out for collaboration!*
