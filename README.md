@@ -28,7 +28,7 @@
 ### 📊 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&langs_count=10&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
