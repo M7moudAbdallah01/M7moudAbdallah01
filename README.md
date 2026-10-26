@@ -1,9 +1,13 @@
 
-# Hi, I'm Mahmoud Abdallah 👋
+<h1 align="center">Hi, I'm Mahmoud Abdallah 👋</h1>
 
-🎓 Computer Science undergraduate at the Faculty of Computers and Artificial Intelligence, Helwan University, Cairo, Egypt.
+<p align="center">
+  🎓 Computer Science Student at Helwan University, Cairo, Egypt
+</p>
 
-🔐 Passionate about **Cybersecurity**, **Penetration Testing**, and **Bug Bounty Hunting**.
+<p align="center">
+  🔐 Cybersecurity | Penetration Testing | Bug Bounty Hunting
+</p>
 
 ---
 
@@ -55,13 +59,11 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <a href="https://github.com/M7moudAbdallah01">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=M7moudAbdallah01&bg_color=0d1117&color=79a7ff&line=3987e8&point=bb86fc&area=true&hide_border=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="./activity-graph.svg"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
@@ -87,11 +89,15 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/M7moudAbdallah01/)
-- 🐙 [GitHub](https://github.com/M7moudAbdallah01)
-- 📧 [Email](mailto:mahmoud.a.sharafelden@gmail.com)
-- 🌐 [Portfolio](https://mahmoud-sharaf.freehosting.dev/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/M7moudAbdallah01/">LinkedIn</a> •
+  <a href="https://github.com/M7moudAbdallah01">GitHub</a> •
+  <a href="mailto:mahmoud.a.sharafelden@gmail.com">Email</a> •
+  <a href="https://mahmoud-sharaf.freehosting.dev/">Portfolio</a>
+</p>
 
 ---
 
-⭐️ *Feel free to explore my repositories and reach out for collaboration!*
+<p align="center">
+  ⭐ Feel free to explore my repositories and reach out for collaboration!
+</p>
