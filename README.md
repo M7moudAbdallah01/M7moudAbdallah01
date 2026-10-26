@@ -56,15 +56,17 @@
 
 ---
 
+
 ### 📈 GitHub Activity Graph
 
 <p align="center">
   <img
-    src="./activity-graph.svg"
-    alt="GitHub Activity Graph"
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="3D GitHub Contribution Graph"
     width="100%"
   />
 </p>
+
 
 ---
 
