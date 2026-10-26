@@ -33,6 +33,34 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=M7moudAbdallah01&theme=tokyonight&hide_border=true&background=0D1117&ring=79A7FF&fire=BB86FC&currStreakLabel=79A7FF"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Most Used Languages"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=M7moudAbdallah01&theme=tokyo-night&hide_border=true&bg_color=0D1117"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 - **Golden Store** — Frontend project developed by a first-year college team
