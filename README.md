@@ -30,17 +30,7 @@
 
 `Burp Suite` `Wireshark` `Nmap` `Metasploit` `Kali Linux` `Hydra` `FFUF` `OWASP ZAP` `Nessus`
 
----
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=M7moudAbdallah01&theme=tokyonight&hide_border=true&background=0D1117&ring=79A7FF&fire=BB86FC&currStreakLabel=79A7FF"
-    alt="GitHub Contribution Streak"
-    width="100%"
-  />
-</p>
 
 ---
 
