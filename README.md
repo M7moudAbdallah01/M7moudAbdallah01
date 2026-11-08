@@ -43,7 +43,15 @@
 
 ---
 
+### 💻 Most Used Languages
 
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&hide_border=true&border_radius=12"
+    alt="Most Used Languages"
+    width="65%"
+  />
+</p>
 
 ---
 
