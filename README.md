@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi, I'm Mahmoud Abdallah 👋</h1>
+ <h1 align="center">Hi, I'm Mahmoud Abdallah 👋</h1>
 
 <p align="center">
   🎓 Computer Science Student at Helwan University, Cairo, Egypt
@@ -30,8 +29,6 @@
 
 `Burp Suite` `Wireshark` `Nmap` `Metasploit` `Kali Linux` `Hydra` `FFUF` `OWASP ZAP` `Nessus`
 
-
-
 ---
 
 ### 📊 GitHub Analytics
@@ -44,6 +41,17 @@
   />
 </p>
 
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7moudAbdallah01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10"
+    alt="Most Used Languages"
+    width="60%"
+  />
+</p>
 
 ---
 
@@ -56,7 +64,6 @@
     width="100%"
   />
 </p>
-
 
 ---
 
