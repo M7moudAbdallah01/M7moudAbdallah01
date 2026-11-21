@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=200&section=header&text=Yassin%20Ali&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
 ## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
  
  <h1 align="center">Hi, I'm Mahmoud Abdallah 👋</h1>
