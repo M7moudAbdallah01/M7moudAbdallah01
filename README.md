@@ -50,7 +50,6 @@ Computer Science student at **Helwan University** with a strong focus on **offen
 ---
 
 ## 📌 Featured Projects
-
 <!-- TODO: replace each "#" with the real repository / report link -->
 
 ### 🔐 Security
